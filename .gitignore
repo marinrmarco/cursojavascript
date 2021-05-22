@@ -1297,3 +1297,14 @@ node_modules/websocket-extensions/lib/pipeline/index.js
 node_modules/websocket-extensions/lib/pipeline/pledge.js
 node_modules/websocket-extensions/lib/pipeline/README.md
 node_modules/websocket-extensions/lib/pipeline/ring_buffer.js
+ejercicios/closures.zip
+ejercicios/Closures/.gitignore
+ejercicios/Closures/index.html
+ejercicios/Closures/package-lock.json
+ejercicios/Closures/package.json
+ejercicios/Closures/assets/index.css
+ejercicios/Closures/assets/index.js
+ejercicios/Closures/assets/MediaPlayer.js
+ejercicios/Closures/ejercicios/closures.html
+ejercicios/Closures/ejercicios/index.html
+ejercicios/Closures/ejercicios/scope.html
